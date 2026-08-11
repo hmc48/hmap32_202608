@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "geo_32_夜間対応型訪問介護",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "内容": "松江24時間介護センター【夜間対応型訪問介護】松江市西持田町341番地1フェリーチェ持田", "url": "https://www.kaigokensaku.mhlw.go.jp/32/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=3290100175-00&ServiceCd=710&Type=search", "url2": "http://www.orangeroad.co.jp/" }, "geometry": { "type": "Point", "coordinates": [ 133.0735353, 35.4972012 ] } },
+{ "type": "Feature", "properties": { "内容": "夜間対応型訪問介護事業所　はくいし【夜間対応型訪問介護】島根県松江市宍道町白石184-3住宅型有料老人ホーム　はくいし", "url": "https://www.kaigokensaku.mhlw.go.jp/32/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=3290100761-00&ServiceCd=710&Type=search", "url2": "https://m-care.themedia.jp/" }, "geometry": { "type": "Point", "coordinates": [ 132.924148400000036, 35.4137477 ] } },
+{ "type": "Feature", "properties": { "内容": "ほうもんかいごじぎょうしょ　わこう【夜間対応型訪問介護】島根県松江市東出雲町下意東3145-2", "url": "https://www.kaigokensaku.mhlw.go.jp/32/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=3290100977-00&ServiceCd=710&Type=search", "url2": "http://wakou-kai.or.jp" }, "geometry": { "type": "Point", "coordinates": [ 133.1812706, 35.4266458 ] } }
+]
+}

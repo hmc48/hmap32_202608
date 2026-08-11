@@ -1,0 +1,14 @@
+{
+"type": "FeatureCollection",
+"name": "geo_32_訪問入浴介護",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "内容": "アースサポート松江【訪問入浴介護】島根県松江市古志原1丁目6番1号", "url": "https://www.kaigokensaku.mhlw.go.jp/32/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=3270102225-00&ServiceCd=120&Type=search", "url2": "http://www.earthsupport.co.jp" }, "geometry": { "type": "Point", "coordinates": [ 133.072221099999979, 35.4456598 ] } },
+{ "type": "Feature", "properties": { "内容": "株式会社　松江にゅーよーく【訪問入浴介護】島根県松江市西川津町2674-5", "url": "https://www.kaigokensaku.mhlw.go.jp/32/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=3270102498-00&ServiceCd=120&Type=search", "url2": null }, "geometry": { "type": "Point", "coordinates": [ 133.078133791848842, 35.482036857277741 ] } },
+{ "type": "Feature", "properties": { "内容": "ＪＡしまね斐川介護センター【訪問入浴介護】島根県出雲市斐川町荘原2172番地3", "url": "https://www.kaigokensaku.mhlw.go.jp/32/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=3270402609-00&ServiceCd=120&Type=search", "url2": "http://ja-shimane.jp/" }, "geometry": { "type": "Point", "coordinates": [ 132.844315916602341, 35.393361570545473 ] } },
+{ "type": "Feature", "properties": { "内容": "いなさ園訪問入浴介護事業所【訪問入浴介護】出雲市大社町杵築西１６４３番地２", "url": "https://www.kaigokensaku.mhlw.go.jp/32/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=3271600227-00&ServiceCd=120&Type=search", "url2": "http//www.kidukikai.or.jp" }, "geometry": { "type": "Point", "coordinates": [ 132.678423800000019, 35.3856095 ] } },
+{ "type": "Feature", "properties": { "内容": "あすなろ訪問入浴介護事業所【訪問入浴介護】出雲市白枝町395-2", "url": "https://www.kaigokensaku.mhlw.go.jp/32/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=3270400363-00&ServiceCd=120&Type=search", "url2": "http://www16.ocn.ne.jp/^asunarod/top/index.html" }, "geometry": { "type": "Point", "coordinates": [ 132.7297089, 35.3609767 ] } },
+{ "type": "Feature", "properties": { "内容": "益田市社会福祉協議会指定訪問入浴介護事業所【訪問入浴介護】益田市須子町3番1号", "url": "https://www.kaigokensaku.mhlw.go.jp/32/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=3270800174-00&ServiceCd=120&Type=search", "url2": "http://masuda-shakyou.or.jp/" }, "geometry": { "type": "Point", "coordinates": [ 131.830793500000027, 34.679386 ] } },
+{ "type": "Feature", "properties": { "内容": "訪問入浴介護事業所おおぎ【訪問入浴介護】島根県雲南市大東町大東1038", "url": "https://www.kaigokensaku.mhlw.go.jp/32/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=3271400164-00&ServiceCd=120&Type=search", "url2": null }, "geometry": { "type": "Point", "coordinates": [ 132.964192499999967, 35.3207671 ] } }
+]
+}

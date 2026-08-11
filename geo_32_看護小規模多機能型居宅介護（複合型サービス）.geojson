@@ -1,0 +1,13 @@
+{
+"type": "FeatureCollection",
+"name": "geo_32_看護小規模多機能型居宅介護（複合型サービス）",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "内容": "看多機ほっとの家【看護小規模多機能型居宅介護（複合型サービス）】島根県浜田市港町199番地1", "url": "https://www.kaigokensaku.mhlw.go.jp/32/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=3290700123-00&ServiceCd=&Type=search", "url2": "http://hotcare.jp" }, "geometry": { "type": "Point", "coordinates": [ 132.070322860400552, 34.899644385450259 ] } },
+{ "type": "Feature", "properties": { "内容": "ひかわ生協看護小規模多機能事業所みなみ【看護小規模多機能型居宅介護（複合型サービス）】島根県出雲市斐川町美南1507-1", "url": "https://www.kaigokensaku.mhlw.go.jp/32/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=3290400542-00&ServiceCd=&Type=search", "url2": "www.hikawa-hp.com/" }, "geometry": { "type": "Point", "coordinates": [ 132.823226879162462, 35.393007280632624 ] } },
+{ "type": "Feature", "properties": { "内容": "サンキ・ウエルビィ看護小規模多機能センター出雲【看護小規模多機能型居宅介護（複合型サービス）】島根県出雲市大社町北荒木1313", "url": "https://www.kaigokensaku.mhlw.go.jp/32/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=3290400831-00&ServiceCd=&Type=search", "url2": null }, "geometry": { "type": "Point", "coordinates": [ 132.694167099999987, 35.3857533 ] } },
+{ "type": "Feature", "properties": { "内容": "輝ららのさんぽ道　看護小規模多機能ホーム【看護小規模多機能型居宅介護（複合型サービス）】島根県益田市遠田町2291番地", "url": "https://www.kaigokensaku.mhlw.go.jp/32/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=3290800253-00&ServiceCd=&Type=search", "url2": "https://sunsun.in/" }, "geometry": { "type": "Point", "coordinates": [ 131.864570699999973, 34.7003199 ] } },
+{ "type": "Feature", "properties": { "内容": "看護小規模多機能型居宅介護事業所すまいるぷらす【看護小規模多機能型居宅介護（複合型サービス）】島根県江津市都野津町2372番地5", "url": "https://www.kaigokensaku.mhlw.go.jp/32/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=3290600125-00&ServiceCd=&Type=search", "url2": "http://smilegarden-tsunodu.com/" }, "geometry": { "type": "Point", "coordinates": [ 132.1842196, 34.9846634 ] } },
+{ "type": "Feature", "properties": { "内容": "とちのみ【看護小規模多機能型居宅介護（複合型サービス）】島根県雲南市吉田町吉田1043番地8", "url": "https://www.kaigokensaku.mhlw.go.jp/32/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=3291400178-00&ServiceCd=&Type=search", "url2": "https://yoshida-fukushikai.jp/" }, "geometry": { "type": "Point", "coordinates": [ 132.859884299999976, 35.1669188 ] } }
+]
+}

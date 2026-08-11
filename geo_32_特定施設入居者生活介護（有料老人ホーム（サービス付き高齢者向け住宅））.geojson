@@ -1,0 +1,13 @@
+{
+"type": "FeatureCollection",
+"name": "geo_32_特定施設入居者生活介護（有料老人ホーム（サービス付き高齢者向け住宅））",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "内容": "特定施設入居者生活介護　四十間堀　醫【特定施設入居者生活介護（有料老人ホーム（サービス付き高齢者向け住宅））】松江市内中原町295番地1", "url": "https://www.kaigokensaku.mhlw.go.jp/32/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=3270102399-00&ServiceCd=&Type=search", "url2": "http://www.kaishunkai.com/kusushi/" }, "geometry": { "type": "Point", "coordinates": [ 133.046025099999952, 35.4726561 ] } },
+{ "type": "Feature", "properties": { "内容": "サービス付き高齢者向け住宅　塩見縄手　醫【特定施設入居者生活介護（有料老人ホーム（サービス付き高齢者向け住宅））】島根県松江市北堀町14番地", "url": "https://www.kaigokensaku.mhlw.go.jp/32/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=3270103983-00&ServiceCd=&Type=search", "url2": "www.kaishunkai.con/shiomi/" }, "geometry": { "type": "Point", "coordinates": [ 133.053263199999947, 35.4775252 ] } },
+{ "type": "Feature", "properties": { "内容": "介護付き有料老人ホーム　椿貴【特定施設入居者生活介護（有料老人ホーム（サービス付き高齢者向け住宅））】島根県松江市千鳥町８４番地", "url": "https://www.kaigokensaku.mhlw.go.jp/32/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=3270103587-00&ServiceCd=&Type=search", "url2": "https://noblelife.co.jp/" }, "geometry": { "type": "Point", "coordinates": [ 133.043155094016157, 35.466072983354401 ] } },
+{ "type": "Feature", "properties": { "内容": "シニアコート平田町【特定施設入居者生活介護（有料老人ホーム（サービス付き高齢者向け住宅））】島根県出雲市平田町7430番地", "url": "https://www.kaigokensaku.mhlw.go.jp/32/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=3270402393-00&ServiceCd=&Type=search", "url2": "http://medicalcare-westjapan,jp/index.php" }, "geometry": { "type": "Point", "coordinates": [ 132.825320257672161, 35.4380362006141 ] } },
+{ "type": "Feature", "properties": { "内容": "特定施設入居者生活介護　　　ヴィラ湖水苑【特定施設入居者生活介護（有料老人ホーム（サービス付き高齢者向け住宅））】島根県出雲市湖陵町差海318－１", "url": "https://www.kaigokensaku.mhlw.go.jp/32/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=3270402096-00&ServiceCd=&Type=search", "url2": "http://jukokai.jp/" }, "geometry": { "type": "Point", "coordinates": [ 132.676277, 35.3269768 ] } },
+{ "type": "Feature", "properties": { "内容": "特定施設入居者生活介護ナーシングリハビリテラス「和かち逢う家」【特定施設入居者生活介護（有料老人ホーム（サービス付き高齢者向け住宅））】島根県大田市長久町長久ハ２４番地2", "url": "https://www.kaigokensaku.mhlw.go.jp/32/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=3270500857-00&ServiceCd=&Type=search", "url2": "http://www.ｋ－jinju.or.jp" }, "geometry": { "type": "Point", "coordinates": [ 132.487186, 35.1994093 ] } }
+]
+}

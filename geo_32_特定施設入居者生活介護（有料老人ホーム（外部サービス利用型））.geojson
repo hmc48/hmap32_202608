@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "geo_32_特定施設入居者生活介護（有料老人ホーム（外部サービス利用型））",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "内容": "介護付き有料老人ホーム八重垣【特定施設入居者生活介護（有料老人ホーム（外部サービス利用型））】島根県松江市大庭町1397番地1介護付き有料老人ホーム八重垣", "url": "https://www.kaigokensaku.mhlw.go.jp/32/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=3270104460-00&ServiceCd=&Type=search", "url2": "https://www.toukou-g.com" }, "geometry": { "type": "Point", "coordinates": [ 133.073664412543252, 35.434010718911146 ] } }
+]
+}

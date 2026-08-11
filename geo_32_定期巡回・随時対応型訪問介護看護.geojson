@@ -1,0 +1,13 @@
+{
+"type": "FeatureCollection",
+"name": "geo_32_定期巡回・随時対応型訪問介護看護",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "内容": "24時間安心ハート【定期巡回・随時対応型訪問介護看護】島根県浜田市田町1466-1", "url": "https://www.kaigokensaku.mhlw.go.jp/32/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=3290700156-00&ServiceCd=760&Type=search", "url2": null }, "geometry": { "type": "Point", "coordinates": [ 132.08462087462155, 34.901328095595034 ] } },
+{ "type": "Feature", "properties": { "内容": "定巡ほっと・くるくる【定期巡回・随時対応型訪問介護看護】島根県浜田市熱田町705-1", "url": "https://www.kaigokensaku.mhlw.go.jp/32/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=3290700271-00&ServiceCd=760&Type=search", "url2": "https://hotcare.jp" }, "geometry": { "type": "Point", "coordinates": [ 132.058305364418061, 34.871351017601029 ] } },
+{ "type": "Feature", "properties": { "内容": "ひかわ生協定期巡回随時対応型訪問介護看護事業所かざぐるま【定期巡回・随時対応型訪問介護看護】島根県出雲市斐川町美南1507-1", "url": "https://www.kaigokensaku.mhlw.go.jp/32/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=3290400492-00&ServiceCd=760&Type=search", "url2": "http://www.hikawa-hp.com" }, "geometry": { "type": "Point", "coordinates": [ 132.823045068481633, 35.393292859776906 ] } },
+{ "type": "Feature", "properties": { "内容": "薫風24ケアサポートセンター【定期巡回・随時対応型訪問介護看護】島根県出雲市大津町3627番地22", "url": "https://www.kaigokensaku.mhlw.go.jp/32/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=3290400658-00&ServiceCd=760&Type=search", "url2": "http://www.izumo-minami.jp/" }, "geometry": { "type": "Point", "coordinates": [ 132.776877138761904, 35.355923016378888 ] } },
+{ "type": "Feature", "properties": { "内容": "定期巡回・随時対応型訪問介護看護ステーションつむぎ【定期巡回・随時対応型訪問介護看護】島根県益田市高津町イ2559-1", "url": "https://www.kaigokensaku.mhlw.go.jp/32/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=3290800204-00&ServiceCd=760&Type=search", "url2": "https://akatsuki-hohoemi.jp/" }, "geometry": { "type": "Point", "coordinates": [ 131.8032055, 34.6869143 ] } },
+{ "type": "Feature", "properties": { "内容": "あまのま【定期巡回・随時対応型訪問介護看護】島根県隠岐郡海士町大字海士1473-6", "url": "https://www.kaigokensaku.mhlw.go.jp/32/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=3292200122-00&ServiceCd=760&Type=search", "url2": "https://amacare-amanoma.jp/" }, "geometry": { "type": "Point", "coordinates": [ 133.0954666, 36.0966921 ] } }
+]
+}
