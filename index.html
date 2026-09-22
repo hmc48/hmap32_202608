@@ -2427,7 +2427,7 @@ fetch("geo_32_地域密着型通所介護.geojson")
         }
     });
 
-    for(let i=1; 7; i++) { loadChome(i.toString().padStart(2, '0')); }
+    for(let i=1; i<=7; i++) { loadChome(i.toString().padStart(2, '0')); }
 
     document.querySelectorAll('.boundary-toggle').forEach(cb => {
         cb.addEventListener('change', function() {
