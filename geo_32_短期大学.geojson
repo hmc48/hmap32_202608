@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "geo_32_短期大学",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::6668" } },
+"features": [
+{ "type": "Feature", "properties": { "P29_001": "32201", "P29_002": "F232210109486", "P29_003": "16006", "P29_004": "島根県立大学短期大学部", "P29_005": "島根県松江市浜乃木7-24-2", "P29_006": "2", "P29_007": "0", "P29_008": "00", "P29_009": null }, "geometry": { "type": "Point", "coordinates": [ 133.060709685518532, 35.438853359625831 ] } }
+]
+}
